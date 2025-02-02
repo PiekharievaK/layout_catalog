@@ -18,8 +18,8 @@
     margin-bottom: 4px;
   }
 
-  &:hover &__title,
-  &:focus &__title {
+  &:hover .card__title,
+  &:focus .card__title {
     color: $card-title-active-color;
   }
 
